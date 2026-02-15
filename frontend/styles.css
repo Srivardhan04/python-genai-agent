@@ -1,0 +1,30 @@
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+.animate-fade-in {
+    animation: fadeIn 0.3s ease-out forwards;
+}
+
+[disabled] {
+    cursor: not-allowed;
+}
+
+#results-container {
+    max-height: 800px;
+    overflow-y: auto;
+}
+
+.status-pending { background-color: #FEF3C7; color: #92400E; }
+.status-processing { background-color: #DBEAFE; color: #1E40AF; }
+.status-completed { background-color: #D1FAE5; color: #065F46; }
+.status-failed { background-color: #FEE2E2; color: #991B1B; }
+
+.scrollbar-hide::-webkit-scrollbar {
+    display: none;
+}
+.scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}

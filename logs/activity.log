@@ -3,3 +3,4 @@
 [2026-03-16T09:41:18.417Z] fix incorrect status code for validation errors
 [2026-03-16T12:04:36.984Z] resolve null pointer in user validation
 [2026-03-17T11:26:59.378Z] sync package-lock after merge
+[2026-03-17T14:54:13.463Z] add retry mechanism with exponential backoff

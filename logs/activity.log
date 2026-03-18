@@ -4,3 +4,4 @@
 [2026-03-16T12:04:36.984Z] resolve null pointer in user validation
 [2026-03-17T11:26:59.378Z] sync package-lock after merge
 [2026-03-17T14:54:13.463Z] add retry mechanism with exponential backoff
+[2026-03-18T09:03:28.194Z] update API rate limit documentation

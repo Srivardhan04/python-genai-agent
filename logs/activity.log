@@ -7,3 +7,4 @@
 [2026-03-18T09:03:28.194Z] update API rate limit documentation
 [2026-03-18T10:53:27.583Z] decouple logging from business logic
 [2026-03-19T07:13:25.282Z] resolve infinite loop in recursive parser
+[2026-03-19T12:42:32.993Z] add request ID tracking for better debugging

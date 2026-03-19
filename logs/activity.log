@@ -6,3 +6,4 @@
 [2026-03-17T14:54:13.463Z] add retry mechanism with exponential backoff
 [2026-03-18T09:03:28.194Z] update API rate limit documentation
 [2026-03-18T10:53:27.583Z] decouple logging from business logic
+[2026-03-19T07:13:25.282Z] resolve infinite loop in recursive parser

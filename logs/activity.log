@@ -13,3 +13,4 @@
 [2026-03-20T09:28:01.356Z] resolve merge conflicts after rebase
 [2026-03-20T14:26:04.821Z] switch from moment.js to native Date handling
 [2026-03-21T03:42:14.265Z] add retry mechanism with exponential backoff
+[2026-03-22T12:36:41.977Z] move business logic out of controller

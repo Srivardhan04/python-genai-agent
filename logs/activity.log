@@ -14,3 +14,4 @@
 [2026-03-20T14:26:04.821Z] switch from moment.js to native Date handling
 [2026-03-21T03:42:14.265Z] add retry mechanism with exponential backoff
 [2026-03-22T12:36:41.977Z] move business logic out of controller
+[2026-03-22T13:30:27.410Z] clean up commented-out dead code

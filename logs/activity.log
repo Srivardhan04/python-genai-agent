@@ -1,3 +1,4 @@
 [2026-03-23T03:50:45.905Z] extract validation into separate module
 [2026-03-24T07:10:57.375Z] enforce single quotes across codebase
 [2026-03-25T11:43:25.194Z] prevent duplicate entries in cache
+[2026-03-25T11:52:50.917Z] fix token refresh not updating stored credentials

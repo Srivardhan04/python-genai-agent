@@ -6,3 +6,4 @@
 [2026-03-27T07:49:50.017Z] add performance benchmark tests
 [2026-03-28T16:28:56.668Z] introduce dark mode toggle
 [2026-03-28T16:58:00.489Z] extract common utilities into shared helper
+[2026-03-29T04:32:15.449Z] update error messages to be more user-friendly

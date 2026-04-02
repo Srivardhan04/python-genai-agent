@@ -5,3 +5,4 @@
 [2026-04-01T12:34:14.779Z] configure auto-deploy for staging branch
 [2026-04-01T16:45:07.331Z] simplify state management in scheduler
 [2026-04-02T04:54:59.110Z] correct off-by-one error in pagination logic
+[2026-04-02T13:49:46.160Z] fix flaky build caused by parallel test collision

@@ -2,3 +2,4 @@
 [2026-04-07T09:40:35.406Z] enforce trailing commas in config
 [2026-04-07T11:20:30.120Z] add performance benchmark tests
 [2026-04-09T04:36:38.616Z] fix incorrect status code for validation errors
+[2026-04-09T06:32:17.262Z] implement graceful shutdown on SIGTERM

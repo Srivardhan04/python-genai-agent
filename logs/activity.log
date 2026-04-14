@@ -1,2 +1,3 @@
 [2026-04-13T05:56:55.342Z] add usage examples to README
 [2026-04-13T16:13:45.668Z] handle missing env variable gracefully
+[2026-04-14T05:41:12.701Z] increase test coverage to 85%

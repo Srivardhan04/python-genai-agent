@@ -1,1 +1,2 @@
 [2026-04-20T12:02:06.942Z] update nginx reverse proxy configuration
+[2026-04-21T13:11:20.076Z] fix memory leak in event listener cleanup

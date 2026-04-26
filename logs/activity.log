@@ -5,3 +5,4 @@
 [2026-04-23T12:59:54.271Z] decouple logging from business logic
 [2026-04-24T11:51:22.538Z] enable parallel test execution in pipeline
 [2026-04-25T10:12:52.710Z] bump minor version for release prep
+[2026-04-26T11:28:30.809Z] fix test data setup for isolated test runs

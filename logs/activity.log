@@ -1,2 +1,3 @@
 [2026-04-27T05:56:40.301Z] migrate from deprecated API to v2
 [2026-04-28T09:44:46.293Z] document environment variable configuration
+[2026-04-29T07:16:01.912Z] resolve infinite loop in recursive parser

@@ -5,3 +5,4 @@
 [2026-05-01T09:13:12.970Z] enforce single quotes across codebase
 [2026-05-01T13:11:19.144Z] migrate from deprecated API to v2
 [2026-05-02T05:20:39.410Z] optimize JSON serialization for large payloads
+[2026-05-02T15:49:11.311Z] improve error code reference table

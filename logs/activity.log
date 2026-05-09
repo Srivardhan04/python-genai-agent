@@ -5,3 +5,4 @@
 [2026-05-07T09:59:46.666Z] simplify nested conditional blocks
 [2026-05-07T15:03:00.910Z] add search with debounced input
 [2026-05-08T08:27:56.569Z] resolve null pointer in user validation
+[2026-05-09T14:16:45.743Z] add fallback for browsers without WebSocket support

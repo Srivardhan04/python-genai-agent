@@ -6,3 +6,4 @@
 [2026-05-07T15:03:00.910Z] add search with debounced input
 [2026-05-08T08:27:56.569Z] resolve null pointer in user validation
 [2026-05-09T14:16:45.743Z] add fallback for browsers without WebSocket support
+[2026-05-10T11:06:16.535Z] add snapshot tests for response formats

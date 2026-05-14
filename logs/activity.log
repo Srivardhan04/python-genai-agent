@@ -4,3 +4,4 @@
 [2026-05-13T05:06:58.287Z] add progress indicator for long-running tasks
 [2026-05-13T15:28:02.055Z] fix flaky test caused by timing dependency
 [2026-05-13T16:16:02.087Z] update API rate limit documentation
+[2026-05-14T11:25:59.428Z] simplify state management in scheduler

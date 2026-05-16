@@ -8,3 +8,4 @@
 [2026-05-14T13:19:09.721Z] fix flaky test caused by timing dependency
 [2026-05-15T12:46:14.931Z] implement lazy loading for dashboard cards
 [2026-05-15T16:51:45.406Z] fix flaky test caused by timing dependency
+[2026-05-16T11:19:09.779Z] add load testing configuration

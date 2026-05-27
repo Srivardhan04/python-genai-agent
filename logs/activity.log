@@ -2,3 +2,4 @@
 [2026-05-26T11:57:45.686Z] resolve null pointer in user validation
 [2026-05-26T13:12:53.631Z] cache frequently accessed configuration values
 [2026-05-26T13:48:50.780Z] add regression test for pagination bug
+[2026-05-27T09:55:10.775Z] document database migration process
